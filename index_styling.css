@@ -1,0 +1,34 @@
+/* stylesheet for index.html */
+
+h1 {
+	font-family: "Times New Roman";
+	font-size: 42pt;
+	font-weight: bold;
+	text-align: center;
+	color: #cc33ff;
+}
+
+p {
+	font-size: 32pt;
+	text-align: center;
+	margin-left: 30%;
+	margin-right: 30%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-style: dotted;
+
+}
+
+.resume {
+	font-family: "Times New Roman";
+	font-size: 18pt;
+	text-align: center;
+	color: grey;
+}
+
+.bio {
+	font-family: "Times New Roman";
+	font-size: 18pt;
+	text-align: center;
+	color: grey;
+}

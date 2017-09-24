@@ -1,0 +1,41 @@
+/* stylesheet for resume.html */
+
+h1 {
+	font-family: "Times New Roman";
+	font-size: 34pt;
+	text-align: center;
+	color: #cc33ff;
+
+}
+
+h2 {
+	font-family: "Times New Roman";
+	font-size: 20pt;
+	text-align: left;
+	color: purple;
+
+}
+
+.date {
+	font-family: "Times New Roman";
+	font-size: 12pt;
+	text-align: left;
+	font-style: italic;
+
+}
+
+p {
+	font-family: "Times New Roman";
+	font-size: 12pt;
+	text-align: left;
+	font-weight: bold;
+}
+
+.bullets {
+	font-family: "Times New Roman";
+	font-size: 12pt;
+	text-align: left;
+	color: grey;
+	list-style-type: square;
+
+}
